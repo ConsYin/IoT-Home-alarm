@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <wiringPi.h>
-#include <time.h>
+
 #include "ifttt.h"
 void sounding(){
   time_t t;t= time(NULL);
