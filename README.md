@@ -1,2 +1,2 @@
 # HouseAlarm
-Starter code for lab05
+Code for lab05
